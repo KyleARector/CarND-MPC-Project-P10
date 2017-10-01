@@ -15,7 +15,7 @@
 using CppAD::AD;
 
 // Length and duration of steps
-size_t N = 25;
+size_t N = 30;
 double dt = 0.05;
 
 // This is the length from front to CoG that has a similar radius.
